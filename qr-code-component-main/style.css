@@ -1,0 +1,33 @@
+body{
+    background-color: powderblue;
+    font-family: 'outfit', sans-serif; 
+    font-size: 11px;
+    width: 600px;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    height: 400px;
+    width: 250px;
+    border-radius: 10px;
+    
+}
+
+img{
+    border-radius: 10px;
+    width: 240px;
+}
+
+.attribution{
+    margin-top: auto;
+    font-size: 11px;
+    text-align: center;
+}
